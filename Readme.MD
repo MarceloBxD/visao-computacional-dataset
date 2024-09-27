@@ -27,9 +27,6 @@ O projeto está estruturado para:
 
 Aqui estão exemplos de como o código funciona, exibindo as tabelas sumárias dos dados e a exportação correta dos metadados:
 
-![Exemplo de Execução - Tabela de Dados](./images/tabela_dados.png)
-![Exemplo de Execução - Arquivo CSV Gerado](./images/csv_gerado.png)
-
 ### Tabela Sumária dos Dados:
 
 O código gera uma tabela sumária contendo informações como:
